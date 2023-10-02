@@ -4,10 +4,10 @@ This is a font for the Devotee language in the game [Chants of Sennaar](https://
 
 ## Glyph table
 
-![glyph table](image\glyph-table.png)
+![glyph table](image/glyph-table.png)
 
 Besides the glyphs above, you can use space (` `) for space (duh), and use hyphen (`-`) for keep the characters from combining with the previous one. 
 
 ## Example texts
 
-![example texts](image\example-texts.png)
+![example texts](image/example-texts.png)
